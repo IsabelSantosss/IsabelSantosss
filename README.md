@@ -1,6 +1,6 @@
-<div style="display: flex; width: 100%; justify-content: flex-end;">
+<div style="display: flex; width: 100%; justify-content: center;">
 
- <img style="width: 480px; height: 380px; margin-left: 500px" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=996&t=st=1688154846~exp=1688155446~hmac=b34b91273940d6cfae5847e869d353635ef5ed9febba23e164122c3e48a8272f"/>
+ <img style="width: 480px; height: 380px; margin-left: 800px" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=996&t=st=1688154846~exp=1688155446~hmac=b34b91273940d6cfae5847e869d353635ef5ed9febba23e164122c3e48a8272f"/>
 
  <h2>Hello! :smiley_cat:</h2> 
 
