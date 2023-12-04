@@ -7,7 +7,7 @@
 
 ## About me
 <div>
-  My name is Isabel (but you can call me Isa haha). I'm crazy for code and cats. A front-end developer with 4+ years of experience with Javascript, Typescript, Angular, NX nrwl, Ngrx and more.
+  My name is Isabel (but you can call me Isa haha). I'm crazy for code and cats. A front-end developer with 7+ years of experience with Javascript, Typescript, Angular, NX nrwl, Ngrx and more.
 </div>
 
 ## Techonologies  
