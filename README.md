@@ -5,6 +5,8 @@
 
 ![Isabel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelSantosss&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&card_width=470)
+
 ## About me
 <div>
   My name is Isabel (but you can call me Isa haha). I'm crazy for code and cats. A front-end developer with 7+ years of experience with Javascript, Typescript, Angular, NX nrwl, Ngrx and more.
@@ -12,7 +14,7 @@
 
 ## Techonologies  
 
-<div>
+<div style="padding: 16px">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -30,4 +32,4 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div>  
